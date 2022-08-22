@@ -1,5 +1,5 @@
 package com.enveu.example.assigement.entity;
-
+/*@Author Manish Kumar*/
 public class EmployeeDTO {
     public int id;
     public String name;
